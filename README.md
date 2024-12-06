@@ -1,8 +1,7 @@
-# React + Vite
+# 🚀 Projeto Quiz de Programação 🌟
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é um quiz interativo desenvolvido com React, onde estou colocando em prática meus conhecimentos nessa tecnologia! Além de React, estou utilizando Javascript puro, HTML e CSS para enriquecer ainda mais a experiência. 🎯💻✨
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://github.com/user-attachments/assets/8fbe7fd5-0cdf-4567-9130-fa93437f24e2
+
